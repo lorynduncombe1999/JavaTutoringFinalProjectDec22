@@ -181,10 +181,7 @@ public static void weeklyTrainingGoals(String[] daysToWorkout, int numberOfWeeks
 
 
 
-    }
-
-
-    public static void main(String[] args) {
+    }public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         //prompt user to take input of current weight
